@@ -1,10 +1,10 @@
 # ParrotCraftGame-using-Java
 This code simulates a simple parrot game where user can choose to feed, hit, or play with a parrot. 
 
-*This code uses JOptionPane to show a dialog that welcomes the user to Parrot Craft game
-*The parrot's state such as health, tamed, crackercrumbs, and number of hearts are affected by the user's actions. 
-*The main method of the ParrotCraft class is where the user can interact with the parrot by calling different methods of the Parrot class.
-*The user can also exit the game at any time.
+This code uses JOptionPane to show a dialog that welcomes the user to Parrot Craft game
+The parrot's state such as health, tamed, crackercrumbs, and number of hearts are affected by the user's actions. 
+The main method of the ParrotCraft class is where the user can interact with the parrot by calling different methods of the Parrot class.
+The user can also exit the game at any time.
 
 
 OUTPUT
